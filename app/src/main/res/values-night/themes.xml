@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.WhatsAppWeb" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#4DE932</item>
-        <item name="colorPrimaryVariant">#4DE932</item>
+        <item name="colorPrimary">#DF29A71A</item>
+        <item name="colorPrimaryVariant">#DF29A71A</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
